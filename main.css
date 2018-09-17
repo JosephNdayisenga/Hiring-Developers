@@ -1,0 +1,29 @@
+th {
+    border: 3px solid;
+    text-align: center;
+}
+
+tr {
+    border: 1px solid;
+    text-align: center;
+}
+
+td  {
+    border: 1px solid;
+    text-align: center;
+}
+
+.div_1 {
+    margin: 20px;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: left;
+}
+
+h3 {
+    font-size: 20px;
+    text-align: left;
+}
